@@ -30,7 +30,7 @@ domain: rdejecs.github.io
 github_username: rdejecs
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
